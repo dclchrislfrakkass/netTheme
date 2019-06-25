@@ -165,7 +165,7 @@
 	        $wp_customize,
 	        'animation',
 	        array(
-	            'label'     => __('Activer Animation', 'cleancut'),
+	            'label'     => __('Activer l\'Animation', 'cleancut'),
 	            'section'   => 'misc',
 	            'settings'  => 'animation',
 	            'type'      => 'checkbox',
